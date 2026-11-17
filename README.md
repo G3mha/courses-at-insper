@@ -1,5 +1,7 @@
 # Insper Computer Engineering Curriculum Archive (2021-2025)
 
+> Archived coursework. Kept for reference.
+
 This repository contains the materials I used during my Bachelor's Degree in Computer Engineering at Insper Learning Institution in São Paulo, Brazil, from 2021 to 2025.
 
 ## About Insper
